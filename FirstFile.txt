@@ -27,3 +27,8 @@ git remote add origin <url>
 git push -u origin main
 #These commands are used to add remote to present git
 #By using push command it push all files of the folder into remote
+git tag -a <tagname> HashCode
+git show <tagname>
+git show --list
+git push origin --tags
+git tag -d <tagname>
