@@ -1,0 +1,9 @@
+#This document contains git commands
+git init
+@This command is uesd to link folder to intilize the git to track
+touch <filename.format>
+#This unix command is used to create a file
+vim <filename.extension>
+#This command is used to create or alter the file
+git status
+#Gives the present state of the present folder, where git intilized
