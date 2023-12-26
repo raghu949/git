@@ -17,3 +17,10 @@ git log
 #This command will display all commited messages with hash number
 git restore <filename.extension"
 #This command is used to remove all changes of a file in the working directory 
+mkdir <FolderName>
+touch <filename>
+vim <filename>
+#create a new folder and a file
+rm <filename>
+rm -rf <foldername>
+#This command remove a file and a folder
