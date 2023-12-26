@@ -32,3 +32,4 @@ git show <tagname>
 git show --list
 git push origin --tags
 git tag -d <tagname>
+#Push how many times you are modified in local dir to remote
