@@ -7,3 +7,13 @@ vim <filename.extension>
 #This command is used to create or alter the file
 git status
 #Gives the present state of the present folder, where git intilized
+git add <filename.extension"
+#This command is used to add untracked files to staging area for tracking
+git restore --staged<filename.extension>
+#This command is used to unstage the added file from git
+git commit -m "Your Message"
+#This command is used to add untracked file for tracking
+git log
+#This command will display all commited messages with hash number
+git restore <filename.extension"
+#This command is used to remove all changes of a file in the working directory 
